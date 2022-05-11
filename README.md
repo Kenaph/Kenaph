@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kenaph
-- 👀 I’m interested in Data Science & Analysis, Machine Learning, Deep Learning
-- 🌱 I’m currently learning about Machine Learning with Python
-- 💞️ I’m looking to collaborate on ... anything Data Science related on entry level
+- 👀 I’m interested in Frontend development, mostly with HTML & CSS
+- 🌱 I’m currently learning HTML & CSS
+- 💞️ I’m looking to collaborate on ... anything HTML & CSS related on entry level
 - 📫 How to reach me: Instagram: brunozorko, Twitter: @RealKenaph
 
 <!---
